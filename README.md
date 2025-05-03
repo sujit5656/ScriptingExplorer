@@ -1,0 +1,2 @@
+# ScriptingExplorer
+Scripting projects
